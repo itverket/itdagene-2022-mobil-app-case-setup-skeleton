@@ -1,4 +1,4 @@
-# crossplatform-mobile-app-default-setup
+# itdagene-2022-mobil-app-case-setup-skeleton
 
 Repository contains skeleton app for both [React-Native](https://reactnative.dev) with [Expo](https://expo.dev), and [Flutter](https://flutter.dev).
 
