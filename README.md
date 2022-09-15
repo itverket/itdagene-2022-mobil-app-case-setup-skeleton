@@ -2,7 +2,7 @@
 
 Repository contains skeleton app for both [React-Native](https://reactnative.dev) with [Expo](https://expo.dev), and [Flutter](https://flutter.dev).
 
-Choose which technology you want to use.
+Choose which technology you want to use, and use the skeleton app to set up and have the developer environment ready before the itDAGENE 2022 mobil app case starts.
 
 ## React Native with Expo
 
