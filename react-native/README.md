@@ -25,3 +25,8 @@ Make sure both your phone and computer are connected to the same Wi-Fi network, 
 ## Start writing code
 
 When you make changes to the code, the changes will automatically be reflected in Expo Go.
+
+## Debug the app
+
+[Many options for debugging is available](https://medium.com/@abdulrahmanhashem/8-ways-to-debug-your-react-native-app-with-expo-the-comprehensive-guide-538655cf1684). The no-setup way is using
+[Chrome Dev Tools](https://medium.com/@abdulrahmanhashem/8-ways-to-debug-your-react-native-app-with-expo-the-comprehensive-guide-538655cf1684#7335).
